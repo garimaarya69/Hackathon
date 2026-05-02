@@ -1,1 +1,1 @@
-# Hackathon
+Food waste detection system# Hackathon
